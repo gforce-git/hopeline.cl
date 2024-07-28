@@ -1,7 +1,8 @@
 {
   "name": "web-app",
-  "version": "0.1.0-beta",
+  "version": "1.0.0-stable",
   "description": "WEB App",
+  "homepage": "./",
   "dependencies": {
     "@fontsource/lato": "^5.0.21",
     "@fontsource/oswald": "^5.0.20",
