@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "./static/css/main.e8cc2c03.css",
-    "main.js": "./static/js/main.d2c5a8dc.js",
+    "main.js": "./static/js/main.b221a3d3.js",
     "static/js/453.77aef9b5.chunk.js": "./static/js/453.77aef9b5.chunk.js",
+    "static/media/header.png": "./static/media/header.ffc2b7a6200f906b2c0c.png",
     "static/media/services-personal.png": "./static/media/services-personal.dcec34069370be23c08f.png",
-    "static/media/header.jpg": "./static/media/header.7fc4dffbc020e68a3d5a.jpg",
     "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/etaxi-app.png": "./static/media/etaxi-app.42bd36231ca464cd80b3.png",
@@ -53,11 +53,11 @@
     "static/media/lato-latin-ext-400-normal.woff": "./static/media/lato-latin-ext-400-normal.221746f6ba5760746446.woff",
     "index.html": "./index.html",
     "main.e8cc2c03.css.map": "./static/css/main.e8cc2c03.css.map",
-    "main.d2c5a8dc.js.map": "./static/js/main.d2c5a8dc.js.map",
+    "main.b221a3d3.js.map": "./static/js/main.b221a3d3.js.map",
     "453.77aef9b5.chunk.js.map": "./static/js/453.77aef9b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8cc2c03.css",
-    "static/js/main.d2c5a8dc.js"
+    "static/js/main.b221a3d3.js"
   ]
 }

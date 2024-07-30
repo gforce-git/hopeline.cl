@@ -45,7 +45,7 @@ class AboutPage extends FoxComponent {
                         <div className="mb-5">
                             <h4 className="fw-bold mb-3">Compromiso y Seriedad</h4>
                             <p>
-                                En Transnav, nos enorgullece ofrecer servicios de transporte de pasajeros que destacan por su compromiso y seriedad. Nos esforzamos por superar las expectativas de nuestros clientes en cada viaje, garantizando una experiencia segura y confiable. Nuestro equipo de profesionales capacitados está dedicado a proporcionar un servicio excepcional, asegurándose de que cada pasajero llegue a su destino de manera segura y puntual.
+                                En Hopeline, nos enorgullece ofrecer servicios de transporte de pasajeros que destacan por su compromiso y seriedad. Nos esforzamos por superar las expectativas de nuestros clientes en cada viaje, garantizando una experiencia segura y confiable. Nuestro equipo de profesionales capacitados está dedicado a proporcionar un servicio excepcional, asegurándose de que cada pasajero llegue a su destino de manera segura y puntual.
                             </p>
                         </div>
                         <div className="mb-5">
@@ -57,7 +57,7 @@ class AboutPage extends FoxComponent {
                         <div className="mb-5">
                             <h4 className="fw-bold mb-3">Ética Profesional</h4>
                             <p>
-                                La ética es un valor fundamental en Transnav. Operamos con integridad y transparencia en todas nuestras interacciones, asegurando que nuestros clientes confíen en nuestros servicios. Valoramos la confianza que depositas en nosotros y trabajamos arduamente para mantener los más altos estándares éticos en todas nuestras operaciones.
+                                La ética es un valor fundamental en Hopeline. Operamos con integridad y transparencia en todas nuestras interacciones, asegurando que nuestros clientes confíen en nuestros servicios. Valoramos la confianza que depositas en nosotros y trabajamos arduamente para mantener los más altos estándares éticos en todas nuestras operaciones.
                             </p>
                         </div>
                         <div className="mb-5">
@@ -69,7 +69,7 @@ class AboutPage extends FoxComponent {
                         <div className="mb-5">
                             <h4 className="fw-bold mb-3">Nuestra Misión</h4>
                             <p>
-                                La misión de Transnav es facilitar el transporte de pasajeros con un enfoque en la seguridad, la comodidad y la satisfacción del cliente. Nos esforzamos por ser líderes en la industria del transporte, innovando constantemente y mejorando nuestros servicios para garantizar que cada pasajero tenga la mejor experiencia posible.
+                                La misión de Hopeline es facilitar el transporte de pasajeros con un enfoque en la seguridad, la comodidad y la satisfacción del cliente. Nos esforzamos por ser líderes en la industria del transporte, innovando constantemente y mejorando nuestros servicios para garantizar que cada pasajero tenga la mejor experiencia posible.
                             </p>
                         </div>
                     </div>

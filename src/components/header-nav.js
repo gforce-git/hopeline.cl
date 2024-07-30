@@ -63,7 +63,7 @@ class HeaderNavComponent extends FoxComponent {
                                     fontWeight: '600',
                                     fontSize: '25px'
                                 }}>
-                                    <i>Transnav</i>
+                                    <i>Hopeline</i>
                                 </span>
                             </a>
                             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-top">

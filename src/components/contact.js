@@ -79,9 +79,9 @@ class ContactComponent extends FoxComponent {
                                             {this.state.strings.whatsapp}
                                         </a>
                                         <a className="btn btn-outline-light mb-2 d-block"
-                                            href="mailto:info@transnav.cl">
+                                            href="mailto:info@hopeline.cl">
                                             <i className="bi bi-envelope me-3"></i>
-                                            info@transnav.cl
+                                            info@hopeline.cl
                                         </a>
                                     </div>
                                     <div className="d-block d-sm-none mb-4">
@@ -94,9 +94,9 @@ class ContactComponent extends FoxComponent {
                                             {this.state.strings.whatsapp}
                                         </a>
                                         <a className="btn btn-primary mb-2 d-block"
-                                            href="mailto:info@transnav.cl">
+                                            href="mailto:info@hopeline.cl">
                                             <i className="bi bi-envelope me-3"></i>
-                                            info@transnav.cl
+                                            info@hopeline.cl
                                         </a>
                                     </div>
                                 </div>

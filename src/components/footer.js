@@ -7,11 +7,11 @@ class FooterComponent extends FoxComponent {
     static strings = {
         en: {
             information: 'Passenger and cargo transportation company legally established in Chile. Find us every day, 24 hours a day at Manutara 9929, La Florida. Santiago of Chile.',
-            copyright: 'Copyright © {year} **Transnav**. All rights reserved.',
+            copyright: 'Copyright © {year} **Hopeline**. All rights reserved.',
         },
         es: {
             information: 'Empresa de Transporte de pasajeros y cargas legalmente constituida en Chile. Encuéntranos todos los días, las 24 horas en Manutara 9929, La Florida. Santiago de Chile.',
-            copyright: 'Copyright © {year} **Transnav**. Todos los derechos reservados.',
+            copyright: 'Copyright © {year} **Hopeline**. Todos los derechos reservados.',
         },
     };
 
@@ -27,7 +27,7 @@ class FooterComponent extends FoxComponent {
                             fontWeight: '600',
                             fontSize: '30px'
                         }}>
-                            <i>Transnav</i>
+                            <i>Hopeline</i>
                         </span>
                     </a>
                     <Markdown>{this.state.strings.information}</Markdown>
