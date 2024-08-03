@@ -62,7 +62,7 @@ class AppDownloadComponent extends FoxComponent {
                                     className="btn btn-primary px-4 d-block d-sm-inline"
                                     rel="noopener noreferrer"
                                     target="_blank"
-                                    href="https://apps.apple.com/cl/app/etaxi-cliente/id550431345">
+                                    href="https://apps.apple.com/cl/app/etaxi-chile/id1245572188">
                                     <i className="bi bi-apple me-3"></i>
                                     {this.state.strings.download.appStore}
                                 </a>
